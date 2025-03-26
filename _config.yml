@@ -13,7 +13,7 @@ title                    : "XUELIN WANG / HOMEPAGE"
 title_separator          : "-"
 name                     : &name "XUELIN WANG"
 description              : &description "personal description"
-url                      : https://xuelinwang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://xuelinwang.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuelinwangLynne/xuelinwang.github.io"
 
