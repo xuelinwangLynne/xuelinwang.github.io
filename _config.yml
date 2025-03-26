@@ -22,7 +22,7 @@ repository               : "xuelinwangLynne/xuelinwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myself.png"
   name             : "Xuelin Wang (王雪琳)"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at Jinan University"
