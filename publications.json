@@ -1,0 +1,222 @@
+[
+  {
+    "id": "frontiers",
+    "category": "sla",
+    "year": 2026,
+    "title": "Frontiers in Second Language Acquisition Research from a Quantitative Linguistics Perspective",
+    "authors": "Xuelin Wang, Yuxin Hao",
+    "venue": "Modern Foreign Languages, 49(5), 691–699",
+    "url": "https://xdwy.cbpt.cnki.net/portal/journal/portal/client/paper/17708aab11785b2e2869d3f7b91b955d",
+    "pdf": "papers/sla-frontiers-2026.pdf",
+    "note": "In Chinese"
+  },
+  {
+    "id": "complexity",
+    "category": "sla",
+    "year": 2024,
+    "title": "How Syntactic Complexity Indices Predict Chinese L2 Writing Quality: An Analysis of Unified Dependency Syntactically-annotated Corpus",
+    "authors": "Yuxin Hao, Xuelin Wang, Shuai Bin, Qihao Yang, Haitao Liu",
+    "venue": "Assessing Writing, 61, 100847",
+    "url": "https://doi.org/10.1016/j.asw.2024.100847",
+    "pdf": "papers/paper-8.pdf",
+    "note": ""
+  },
+  {
+    "id": "distribution",
+    "category": "sla",
+    "year": 2023,
+    "title": "A Probability Distribution of Dependencies in Interlanguage",
+    "authors": "Yuxin Hao, Xuelin Wang, Shuai Bin, Haitao Liu",
+    "venue": "Poznań Studies in Contemporary Linguistics",
+    "url": "https://doi.org/10.1515/psicl-2022-2007",
+    "pdf": "papers/paper-9.pdf",
+    "note": ""
+  },
+  {
+    "id": "distance",
+    "category": "sla",
+    "year": 2022,
+    "title": "Dependency Distance and Its Probability Distribution: Are They the Universals for Measuring Second Language Learners’ Language Proficiency?",
+    "authors": "Yuxin Hao, Xuelin Wang, Yanni Lin",
+    "venue": "Journal of Quantitative Linguistics",
+    "url": "https://doi.org/10.1080/09296174.2021.1991684",
+    "pdf": "papers/paper-10.pdf",
+    "note": "First published online in 2021"
+  },
+  {
+    "id": "review",
+    "category": "sla",
+    "year": 2022,
+    "title": "Understanding Development and Proficiency in Writing: Quantitative Corpus Linguistic Approaches — Book Review",
+    "authors": "Xuelin Wang, Tsy Yih",
+    "venue": "Journal of Second Language Writing, 56, 100875",
+    "url": "https://doi.org/10.1016/j.jslw.2022.100875",
+    "pdf": "papers/paper-4.pdf",
+    "note": ""
+  },
+  {
+    "id": "networks",
+    "category": "sla",
+    "year": 2021,
+    "title": "Syntactic Networks of Interlanguage Across L2 Modalities and Proficiency Levels",
+    "authors": "Yuxin Hao, Xuelin Wang, Meng Wu, Haitao Liu",
+    "venue": "Frontiers in Psychology, 12, 643120",
+    "url": "https://doi.org/10.3389/fpsyg.2021.643120",
+    "pdf": "papers/paper-12.pdf",
+    "note": ""
+  },
+  {
+    "id": "typology",
+    "category": "sla",
+    "year": 2021,
+    "title": "Typological Characteristics of Interlanguage: Across Native Language Types and L2 Proficiency Levels",
+    "authors": "Yuxin Hao, Xuelin Wang, Qi Yu",
+    "venue": "Lingua, 261, 103085",
+    "url": "https://doi.org/10.1016/j.lingua.2021.103085",
+    "pdf": "papers/paper-11.pdf",
+    "note": ""
+  },
+  {
+    "id": "valency",
+    "category": "sla",
+    "year": 2021,
+    "title": "Development of Chinese Interlanguage’s Verbal Valence Based on a Syntactically-annotated Corpus",
+    "authors": "Yuxin Hao, Xuelin Wang, Haitao Liu",
+    "venue": "Applied Linguistics, 2021(1), 29–41",
+    "url": "https://doi.org/10.16499/j.cnki.1003-5397.2021.01.007",
+    "pdf": "papers/paper-7.pdf",
+    "note": "In Chinese · Reprinted in Renmin University’s reprint series"
+  },
+  {
+    "id": "varieties",
+    "category": "varieties",
+    "year": 2025,
+    "title": "Beyond Commonalities: A Quantitative Perspective on Syntactic Features across Mandarin Chinese Varieties",
+    "authors": "Xuelin Wang, Shuai Bin, Iris Chen, Yuxin Hao",
+    "venue": "Journal of Quantitative Linguistics",
+    "url": "https://doi.org/10.1080/09296174.2025.2567089",
+    "pdf": "papers/paper-1.pdf",
+    "note": ""
+  },
+  {
+    "id": "literary",
+    "category": "style",
+    "year": 2026,
+    "title": "A Stylometric Analysis of Chinese Literary Inheritance and Divergence: Evidence from Shen Congwen and Wang Zengqi",
+    "authors": "Jie Bai, Xuelin Wang*",
+    "venue": "Humanities and Social Sciences Communications",
+    "url": "https://doi.org/10.1057/s41599-026-07300-1",
+    "pdf": "papers/paper-3.pdf",
+    "note": ""
+  },
+  {
+    "id": "humor",
+    "category": "style",
+    "year": 2026,
+    "title": "A Quantitative Study of Multidimensional Linguistic Features of Chinese Humor: Evidence from Xiangsheng Texts",
+    "authors": "Yongsheng Chen, Xuelin Wang*",
+    "venue": "International Journal of Chinese Language Teaching, 7(3), 101–113",
+    "url": "https://doi.org/10.46451/ijclt.260409",
+    "pdf": "papers/paper-5.pdf",
+    "note": "In Chinese · English title translated"
+  },
+  {
+    "id": "podcasts",
+    "category": "style",
+    "year": 2024,
+    "title": "Investigating Linguistic Variation in Chinese Podcasts: A Quantitative Stylistic Perspective",
+    "authors": "Jie Bai, Xuelin Wang*",
+    "venue": "International Conference on Asian Language Processing (IALP), 275–280",
+    "url": "https://doi.org/10.1109/IALP63756.2024.10661120",
+    "pdf": null,
+    "note": ""
+  },
+  {
+    "id": "lawe",
+    "category": "education",
+    "year": 2026,
+    "title": "LAWE-CL2: Multi-agent LLM-based Automated Writing Evaluation System Integrating Linguistic Features with Fine-tuning for Chinese L2 Writing Assessment",
+    "authors": "Xuelin Wang, Qihao Yang, Yuxin Hao, Zhijun Wang, Sijia Guo",
+    "venue": "Assessing Writing, 101051",
+    "url": "https://doi.org/10.1016/j.asw.2026.101051",
+    "pdf": "papers/paper-2.pdf",
+    "note": ""
+  },
+  {
+    "id": "hsk",
+    "category": "education",
+    "year": 2026,
+    "title": "HSKBenchmark: Modeling and Benchmarking Chinese Second Language Acquisition in Large Language Models through Curriculum Tuning",
+    "authors": "Qihao Yang†, Xuelin Wang†, Jiale Chen, Xuelian Dong, Yuxin Hao, Tianyong Hao",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026)",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41303",
+    "pdf": "papers/paper-13.pdf",
+    "note": ""
+  },
+  {
+    "id": "chatgpt",
+    "category": "education",
+    "year": 2023,
+    "title": "ChatGPT Empowers the Intelligent Development of International Chinese Language Education",
+    "authors": "Yuxin Hao, Xuelin Wang",
+    "venue": "Language Teaching and Linguistic Studies, 2023(4)",
+    "url": "https://scse.shisu.edu.cn/10/f6/c12185a200950/page.htm",
+    "pdf": "papers/paper-6.pdf",
+    "note": "In Chinese · English title translated · Website links to the author’s publication record"
+  },
+  {
+    "id": "polclip",
+    "category": "nlp",
+    "year": 2024,
+    "title": "PolCLIP: A Unified Image-Text Word Sense Disambiguation Model via Generating Multimodal Complementary Representations",
+    "authors": "Qihao Yang, Yong Li, Xuelin Wang, Fu Lee Wang, Tianyong Hao",
+    "venue": "Proceedings of ACL 2024 (Long Papers)",
+    "url": "https://aclanthology.org/2024.acl-long.575/",
+    "pdf": "https://aclanthology.org/2024.acl-long.575.pdf",
+    "note": ""
+  },
+  {
+    "id": "figclip",
+    "category": "nlp",
+    "year": 2024,
+    "title": "FigCLIP: A Generative Multimodal Model with Bidirectional Cross-attention for Understanding Figurative Language via Visual Entailment",
+    "authors": "Qihao Yang, Xuelin Wang*",
+    "venue": "Proceedings of the 4th Workshop on Figurative Language Processing",
+    "url": "https://aclanthology.org/2024.figlang-1.13/",
+    "pdf": "https://aclanthology.org/2024.figlang-1.13.pdf",
+    "note": ""
+  },
+  {
+    "id": "mta",
+    "category": "nlp",
+    "year": 2024,
+    "title": "MTA: A Lightweight Multilingual Text Alignment Model for Cross-Language Visual Word Sense Disambiguation",
+    "authors": "Qihao Yang, Xuelin Wang, Yong Li, Lap-Kei Lee, Fu Lee Wang, Tianyong Hao",
+    "venue": "IEEE ICASSP 2024, 12166–12170",
+    "url": "https://doi.org/10.1109/ICASSP48485.2024.10447455",
+    "pdf": null,
+    "note": ""
+  },
+  {
+    "id": "lingx",
+    "category": "nlp",
+    "year": 2023,
+    "title": "LingX at ROCLING 2023 MultiNER-Health Task: Intelligent Capture of Chinese Medical Named Entities by LLMs",
+    "authors": "Xuelin Wang, Qihao Yang",
+    "venue": "Proceedings of ROCLING 2023, 350–358",
+    "url": "https://aclanthology.org/2023.rocling-1.44/",
+    "pdf": "https://aclanthology.org/2023.rocling-1.44.pdf",
+    "note": ""
+  },
+  {
+    "id": "fcll",
+    "category": "nlp",
+    "year": 2023,
+    "title": "TAM of SCNU at SemEval-2023 Task 1: FCLL: A Fine-grained Contrastive Language-image Learning Model for Cross-language Visual Word Sense Disambiguation",
+    "authors": "Qihao Yang, Yong Li, Xuelin Wang, Shunhao Li, Tianyong Hao",
+    "venue": "Proceedings of SemEval 2023, 506–511",
+    "url": "https://aclanthology.org/2023.semeval-1.70/",
+    "pdf": "https://aclanthology.org/2023.semeval-1.70.pdf",
+    "note": ""
+  }
+]

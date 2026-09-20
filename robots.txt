@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xuelinwanglynne.github.io/xuelinwang.github.io/sitemap.xml
