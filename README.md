@@ -7,15 +7,15 @@ English faculty website intended for https://xuelinwanglynne.github.io/xuelinwan
 - `index.html`: Home, interactive QQ, recruitment and latest news.
 - `research.html`: Research interests.
 - `publications.html`: Publications grouped by topic, newest first; filters and search.
-- `cv.html`: Appointment, doctoral education, UMass joint training, teaching, research projects and academic service.
-- `team.html`: Collaborators.
+- `cv.html`: GDUFS and Tongji appointments, doctoral and Huaqiao education, UMass joint training, teaching, research projects and academic service.
+- `team.html`: Faculty and collaborators in separate groups.
 - `contact.html`: Contact details.
 
 Every route is an independent HTML document. Relative links work under the GitHub Pages project subdirectory. No build step is needed; `.nojekyll` disables Jekyll processing.
 
 ## Design and interactions
 
-Body copy, navigation, publication details, buttons and captions are at least 16 CSS pixels (12 points, 小四号) on all screen sizes. The name uses Pacifico, with the license included. The portrait is upright. QQ uses the original photo with a soft alpha edge applied in the browser. Greeting, petting and feeding produce motion and text feedback; feeding is capped at five treats per browser session. Controls work with keyboard and touch, motion is pausable, and reduced-motion preferences are respected.
+Body copy, navigation, publication details, buttons and captions are at least 16 CSS pixels (12 points, 小四号) on all screen sizes. The name uses Pacifico, with the license included. The portrait is upright. QQ uses watercolor animation frames based on the owner’s photographs and preferred illustration. She walks, runs, scratches, jumps, chases a butterfly and eats; feeding is capped at five treats per browser session. Controls work with keyboard and touch, motion is pausable, and reduced-motion preferences are respected.
 
 ## Visitor statistics
 

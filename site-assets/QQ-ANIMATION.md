@@ -1,0 +1,16 @@
+# QQ watercolor animation
+
+Asset: `qq-sprites-v4.png` (1122 × 1402), generated with the built-in image_gen tool using the owner's supplied watercolor illustration and photographs as references. The original generated file is preserved, with no manual bitmap repainting.
+
+The sheet has four columns and five rows: walking, running, scratching, jumping, and eating. Browser frame animation changes QQ's actual pose; JavaScript moves her around Home. A small SVG butterfly leads the chase. Visitors can choose actions, call QQ back, pet her, feed her, or pause motion. Reduced-motion preferences are respected. The pale source backdrop is blended with the page using CSS; this source PNG is RGB, not an alpha cutout.
+
+## Generation prompt
+
+Use case: identity-preserve / illustration-story. Production asset: a carefully aligned 4-column by 5-row animation sprite sheet of QQ, the specific female small white fluffy dog shown in reference photographs and the supplied watercolor illustration. Reference 1 is the MAIN visual style and facial likeness to preserve; references 2 and 3 are her actual face and whole-body proportions. Recreate the SAME adorable QQ from the watercolor: fluffy irregular ivory-white curls, soft floppy ears, glossy round black eyes, very light warm apricot patch around HER LEFT eye (viewer right), small charcoal button nose with a soft brown highlight, rounded muzzle, happy open mouth pink tongue. Natural sweet puppy proportions, full body, NOT generic vector icon, NOT crude cloud outlines, NOT oversized anime eyes. Fine painterly fur and watercolor/gouache texture exactly like reference 1.
+Output a SINGLE sprite sheet, 2048 x 2560 pixels, exactly 4 equal columns and 5 equal rows, each cell 512x512. No gutters, no labels, no grid lines, no frame borders, no text. Every cell contains exactly one full-body QQ at identical scale, positioned in the center with feet near y=440 within the cell; keep all fur inside cell with at least 35px padding. Dog faces right in three-quarter view, head turned slightly toward the viewer so her distinctive smiling face stays recognizable.
+Row1: 4 consecutive frames of slow walking cycle, genuinely different alternating leg positions, subtle tail swing, smiling.
+Row2: 4 consecutive frames of bounding running cycle: front legs reach, gather, hind legs extend, airborne gathered paws; consistent size, full body.
+Row3: 4 consecutive frames sitting and scratching behind her ear with a raised hind paw, moving paw actually contacts ear; happy squinty eyes and tilted head.
+Row4: 4 consecutive frames playful jump: crouch, lift with bent paws, full leap with paws tucked, soft landing. Keep character body alignment consistent except intentional jump.
+Row5: 4 consecutive frames nibbling a small bone held between front paws, head lowered and mouth changes while chewing; seated adorable face.
+All cells SAME dog same fur detail same face and scale. A warm lifelike watercolor miniature, attractive enough to use as a beloved pet mascot. Background genuinely TRANSPARENT alpha, not a drawn checkerboard. If unable to encode transparency use uniform exact #FAFBF9 background with no shadows or scenery. Do not include laptop, books, humans, clothing, leash, or any scene from reference illustration. Entire dog visible in all frames.
